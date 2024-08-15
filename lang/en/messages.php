@@ -7,7 +7,7 @@ return [
     'events' => 'Events',
     'about_us' => 'About us',
     'contact_us' => 'Contact us',
-    'greeting' => 'Welcome',
+    'greeting' => '"Find peace in the very center of Riga."',
 ];
 
 ?>

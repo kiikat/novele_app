@@ -7,7 +7,7 @@ return [
     'events' => 'Pasākumi',
     'about_us' => 'Par Mums',
     'contact_us' => 'Kontakti',
-    'greeting' => 'Labdien',
+    'greeting' => '"Atrodi mieru pašā Rīgas centrā."',
 ];
 
 ?>
