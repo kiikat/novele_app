@@ -61,5 +61,19 @@
       <div class="container-greeting">
         <h1>@lang('messages.greeting')</h1>
       </div>
+      <div class="container-home">
+        <div class="container-about-novele">
+          <h1>@lang('messages.about_novele')</h1>
+          <p>@lang('messages.long_text_about_novele')<p>
+          <p>
+        </div>
+        <div class="container-guest-amenities">
+          <h1>@lang('messages.amenities')</h1>
+          <div class="parking">
+            <p>@lang('messages.parking')</p>
+            <img src="{{ asset('img/car_parking.jpg') }}" alt="Parking lot">
+          </div>
+        </div>
+      </div>
     </body>
 </html>
